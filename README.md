@@ -19,12 +19,12 @@ These projects provide demonstrations of how to use software and tools within cy
   </tr>
       <!-- Personal Development Projects   --> 
   <tr>
-    <td><a href="https://github.com/dariusrichardson55/Threat-Intelligence-and-Monitoring-Dashboard">Threat Intelligence and Monitoring Dashboard</a></td>
+    <td><a href="https://github.com/dariusrichardson55/Threat-Intelligence-and-Monitoring-Dashboard">Project 1 </a>- Threat Intelligence and Monitoring Dashboard</td>
     <td><code>LevelBlue/Labs</code>, <code>Grafana</code></td>
   </tr>
    <!-- Security Information and-Event Management (Splunk) --> 
   <tr>
-    <td><a href="https://github.com/dariusrichardson55/Security-Information-and-Event-Management-Splunk">Security Information and-Event Management (Splunk)</a></td>
+    <td><a href="https://github.com/dariusrichardson55/Security-Information-and-Event-Management-Splunk">Project 2 </a>- Security Information and-Event Management (Splunk)</td>
     <td><code>Splunk Enterprise</code></td>
     </tr>
 </table>
