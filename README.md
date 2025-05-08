@@ -23,6 +23,7 @@ These projects provide demonstrations of how to use software and tools within cy
   <tr>
     <td><a href="https://github.com/dariusrichardson55/Threat-Intelligence-and-Monitoring-Dashboard">Project 1 </a>- Threat Intelligence and Monitoring Dashboard</td>
     <td><code>LevelBlue/Labs</code>, <code>Grafana</code></td>
+        <td><code>LevelBlue/Labs</code>, <code>Grafana</code></td>
   </tr>
    <!-- Security Information and-Event Management (Splunk) --> 
   <tr>
@@ -31,7 +32,7 @@ These projects provide demonstrations of how to use software and tools within cy
     </tr>
     <!-- Network Traffic Analysis with Wireshark --> 
   <tr>
-    <td><a href="https://github.com/dariusrichardson55/Network-Traffic-Analysis-with-Wireshark">Project 3 </a>- Threat Intelligence and Monitoring Dashboard</td>
+    <td><a href="https://github.com/dariusrichardson55/Network-Traffic-Analysis-with-Wireshark">Project 3 </a>- Network Traffic Analysis with Wireshark</td>
     <td><code>Virtual Environment Setup, Wireshark Installation,Advanced Traffic Capture</code></td>
     </tr>
 </table>
