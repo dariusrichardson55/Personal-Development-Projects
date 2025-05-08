@@ -27,5 +27,13 @@ These projects provide demonstrations of how to use software and tools within cy
     <td><a href="https://github.com/dariusrichardson55/Security-Information-and-Event-Management-Splunk">Project 2 </a>- Security Information and-Event Management (Splunk)</td>
     <td><code>Splunk Enterprise</code></td>
     </tr>
+    <!-- Threat Intelligence and Monitoring Dashboard --> 
+  <tr>
+    <td><a href="https://github.com/dariusrichardson55/Security-Information-and-Event-Management-Splunk">Project 2 </a>- Security Information and-Event Management (Splunk)</td>
+    <td><code>API Integration</code></td>
+    <td><code>Data Extraction</code></td>
+    <td><code>Dashboard Creation</code></td>
+    <td><code>Data Analysis</code></td>
+    </tr>
 </table>
 </body>
