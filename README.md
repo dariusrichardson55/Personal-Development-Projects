@@ -14,10 +14,11 @@ These projects provide demonstrations of how to use software and tools within cy
 <h2>Project overview</h2>
 <table>
   <tr>
+    <!-- Personal Development Projects --> 
     <th>Personal Development Projects</th>
-    <th>Software/Tools learnt</th>
+    <th>Software and Tools used</th>
   </tr>
-      <!-- Personal Development Projects   --> 
+    <!-- Threat Intelligence and Monitoring Dashboard --> 
   <tr>
     <td><a href="https://github.com/dariusrichardson55/Threat-Intelligence-and-Monitoring-Dashboard">Project 1 </a>- Threat Intelligence and Monitoring Dashboard</td>
     <td><code>LevelBlue/Labs</code>, <code>Grafana</code></td>
@@ -29,11 +30,8 @@ These projects provide demonstrations of how to use software and tools within cy
     </tr>
     <!-- Threat Intelligence and Monitoring Dashboard --> 
   <tr>
-    <td><a href="https://github.com/dariusrichardson55/Security-Information-and-Event-Management-Splunk">Project 2 </a>- Security Information and-Event Management (Splunk)</td>
-    <td><code>API Integration</code></td>
-    <td><code>Data Extraction</code></td>
-    <td><code>Dashboard Creation</code></td>
-    <td><code>Data Analysis</code></td>
+    <td><a href="https://github.com/dariusrichardson55/Threat-Intelligence-and-Monitoring-Dashboard">Project 3 </a>- Threat Intelligence and Monitoring Dashboard</td>
+    <td><code>API Integration, Data Extraction, Dashboard Creation, Data Analysis</code></td>
     </tr>
 </table>
 </body>
