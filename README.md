@@ -1,4 +1,4 @@
-# Personal-Development-Projects
+no# Personal-Development-Projects
 
 
 <h1>Description</h1>
@@ -34,7 +34,7 @@ These projects provide demonstrations of how to use software and tools within cy
   <tr>
     <td><a href="https://github.com/dariusrichardson55/Network-Traffic-Analysis-with-Wireshark">Project 3 </a>- Network Traffic Analysis with Wireshark</td>
     <td><code>Wireshark</code></td>
-    <td><code>Virtual Environment Setup, Wireshark Installation,Advanced Traffic Capture</code></td>
+    <td><code>Virtual Environment Setup, Wireshark Installation, Advanced Traffic Capture</code></td>
     </tr>
 </table>
 </body>
