@@ -17,6 +17,7 @@ These projects provide demonstrations of how to use software and tools within cy
     <!-- Personal Development Projects --> 
     <th>Personal Development Projects</th>
     <th>Software and Tools used</th>
+    <th>Competencies</th>
   </tr>
     <!-- Threat Intelligence and Monitoring Dashboard --> 
   <tr>
@@ -28,10 +29,10 @@ These projects provide demonstrations of how to use software and tools within cy
     <td><a href="https://github.com/dariusrichardson55/Security-Information-and-Event-Management-Splunk">Project 2 </a>- Security Information and-Event Management (Splunk)</td>
     <td><code>Splunk Enterprise</code></td>
     </tr>
-    <!-- Threat Intelligence and Monitoring Dashboard --> 
+    <!-- Network Traffic Analysis with Wireshark --> 
   <tr>
-    <td><a href="https://github.com/dariusrichardson55/Threat-Intelligence-and-Monitoring-Dashboard">Project 3 </a>- Threat Intelligence and Monitoring Dashboard</td>
-    <td><code>API Integration, Data Extraction, Dashboard Creation, Data Analysis</code></td>
+    <td><a href="https://github.com/dariusrichardson55/Network-Traffic-Analysis-with-Wireshark">Project 3 </a>- Threat Intelligence and Monitoring Dashboard</td>
+    <td><code>Virtual Environment Setup, Wireshark Installation,Advanced Traffic Capture</code></td>
     </tr>
 </table>
 </body>
